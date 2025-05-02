@@ -17,3 +17,17 @@ Tracker 列表来源:
 - [Available](https://raw.githubusercontent.com/XiYang6666/TrackerList/master/data/available.txt)
 - [Available-http(s)](https://raw.githubusercontent.com/XiYang6666/TrackerList/master/data/available_http(s).txt)
 - [Available-udp](https://raw.githubusercontent.com/XiYang6666/TrackerList/master/data/available_udp.txt)
+
+# 测试
+
+使用pip或等效工具安装 tracker-utils 库:
+
+```bash
+pip install tracker-utils
+```
+
+然后运行测试脚本:
+
+```bash
+./test.sh
+```

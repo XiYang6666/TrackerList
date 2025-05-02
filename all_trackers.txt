@@ -1,0 +1,5 @@
+[PROVIDER]https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt
+
+[PROVIDER]https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/all.txt
+
+[PROVIDER]https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all.txt

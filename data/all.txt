@@ -49,6 +49,7 @@ http://116.8.90.240:6969/announce
 http://116.8.90.241:6969/announce
 http://116.8.90.54:6969/announce
 http://116.8.90.57:6969/announce
+http://116.8.90.79:6969/announce
 http://116.8.91.159:6969/announce
 http://116.8.91.220:6969/announce
 http://116.8.91.249:6969/announce
@@ -150,6 +151,7 @@ http://173.254.204.71:1096/announce
 http://176.32.38.223:6961/announce
 http://177.139.44.145:6969/announce
 http://177.139.47.236:6969/announce
+http://177.139.47.40:6969/announce
 http://177.144.178.39:6969/announce
 http://177.172.61.236:6969/announce
 http://177.172.62.185:6969/announce
@@ -414,6 +416,7 @@ http://83.31.209.3:6969/announce
 http://83.31.210.200:6969/announce
 http://83.31.211.243:6969/announce
 http://83.31.212.134:6969/announce
+http://83.31.213.86:6969/announce
 http://83.31.215.174:6969/announce
 http://83.31.216.220:6969/announce
 http://83.31.219.129:6969/announce
@@ -1071,6 +1074,7 @@ http://tracker.trackerfix.com:80/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.trancetraffic.com/announce.php
 http://tracker.trancetraffic.com:80/announce.php
+http://tracker.tritan.gg:8080/announce
 http://tracker.trojangogogo.site:8080/announce
 http://tracker.tvunderground.org.ru:3218/announce
 http://tracker.vanitycore.co:6969/announce
@@ -1524,6 +1528,7 @@ https://tracker.lilithraws.cf:443/announce
 https://tracker.lilithraws.org/announce
 https://tracker.lilithraws.org:443/announce
 https://tracker.linvk.com/announce
+https://tracker.linvk.com:443/announce
 https://tracker.logirl.moe/announce
 https://tracker.logirl.moe:443/announce
 https://tracker.loli.co.nz/announce
@@ -1742,9 +1747,11 @@ udp://176.56.4.199:6969/announce
 udp://176.56.6.77:6969/announce
 udp://176.56.7.44:6969/announce
 udp://176.56.7.89:6969/announce
+udp://176.79.98.66:6969/announce
 udp://176.99.7.59:6969/announce
 udp://177.139.44.145:6969/announce
 udp://177.139.47.236:6969/announce
+udp://177.139.47.40:6969/announce
 udp://177.144.178.39:6969/announce
 udp://177.172.62.185:6969/announce
 udp://177.172.65.102:6969/announce
@@ -1807,6 +1814,7 @@ udp://193.37.214.12:6969/announce
 udp://193.42.111.57:9337/announce
 udp://193.53.126.6:6961/announce
 udp://194.106.216.222:80/announce
+udp://194.110.247.18:6969/announce
 udp://194.195.86.132:6969/announce
 udp://194.38.21.77:6969/announce
 udp://194.87.68.142:6969/announce
@@ -1885,6 +1893,8 @@ udp://220.200.35.65:2710/announce
 udp://220.200.35.65:6969/announce
 udp://220.200.35.69:2710/announce
 udp://220.200.35.69:6969/announce
+udp://220.200.35.72:2710/announce
+udp://220.200.35.72:6969/announce
 udp://220.200.35.97:2710/announce
 udp://220.200.35.97:6969/announce
 udp://222.216.139.217:6969/announce
@@ -2017,11 +2027,14 @@ udp://79.116.26.57:1234/announce
 udp://79.116.36.178:1234/announce
 udp://79.116.39.36:1234/announce
 udp://79.116.53.222:1234/announce
+udp://79.116.70.135:1234/announce
 udp://79.117.113.253:1234/announce
 udp://79.117.124.172:1234/announce
+udp://79.117.126.151:1234/announce
 udp://79.117.133.1:1234/announce
 udp://79.117.28.48:1234/announce
 udp://79.117.5.107:1234/announce
+udp://79.117.63.250:1234/announce
 udp://7p41a8967.wicp.vip:22222/announce
 udp://82.156.24.219:6969/announce
 udp://82.65.115.10:6969/announce
@@ -2040,6 +2053,7 @@ udp://83.31.194.79:6969/announce
 udp://83.31.206.43:6969/announce
 udp://83.31.208.37:6969/announce
 udp://83.31.210.200:6969/announce
+udp://83.31.213.86:6969/announce
 udp://83.31.215.174:6969/announce
 udp://83.31.219.129:6969/announce
 udp://83.31.219.138:6969/announce
